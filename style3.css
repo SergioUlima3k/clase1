@@ -1,0 +1,76 @@
+html, body{
+    margin: 0;
+}
+.nav{
+    padding-top: 0px;
+    padding-left: 10px;
+    display: flex;
+    margin-bottom: -20px;
+    margin-left: 40px;
+}
+.nav p{
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pipi{
+    background-image: url(./img/banner.jpg);
+    max-width: 100%;
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #dddd;
+    max-width: 450px;
+    margin-top: 0;
+    padding-left: 100px;
+    margin-bottom: 0;
+
+}
+    
+    
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #dddd;
+    margin-bottom: 0;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+
+.bt1{
+    margin-left: 100px;
+    background-color: #9BF00B ;
+    color: #075704;
+
+
+}
+
+.bt2{
+    margin-left: 10px;
+    color: #9BF00B ;
+    background-color: transparent;
+    
+
+}
+
+button{
+    border-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.red{
+    margin-top: 0;
+    margin-bottom: 5px;
+    display: flex;
+    padding-left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+footer{
+    display: flex;
+    background-color: #dddd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 40px;
+}

@@ -1,0 +1,158 @@
+body,html {
+    margin: 0;
+}
+
+header{
+    color: black;
+    padding-left: 5px;
+
+}
+
+.menu1{
+    padding-top: 0px;
+    padding-left: 10px;
+    display: flex;
+    margin-bottom: -20px;
+}
+
+.menu1 p{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    padding-top: 0;
+    list-style-type: none; 
+    margin-left: 20px;
+
+
+}
+
+.cambio{
+    height: 450px;
+    max-width: 100%;
+    width: 100%;
+    background-image: url(./img/banner.jpg) ;
+    background-size: 1300px 450px;
+    background-size: cover;
+    
+}
+
+.xd1{
+    background-color: #dddddd;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.nuevo{
+    display: flex;
+    padding-left: 60%;
+    bottom: 0;
+}
+
+.nuevo p{
+    margin-left: 10px;
+    margin-bottom: 201px;
+}
+
+
+ol{
+    margin: 0;
+}
+
+h1{
+    padding-left: 50px;
+    width: 450px;
+    color: #dddddd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    padding-top: 150px;
+}
+
+
+h3{
+    padding-left: 50px;
+    
+
+    color: #dddddd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 450px;
+
+}
+
+
+
+h5{
+    padding-left: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.button{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #075704;
+    font-size: 15px;
+    background-color: #9BF00B;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 50px;
+    border: none;
+    
+}
+
+.span{
+    padding-left: 40px;
+    color:#9BF00B;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.nav3{
+    list-style-type: none; 
+    padding-left: 40px;
+    color : black;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    
+}
+section{
+    align-items: center;
+}
+
+section p{
+    display: flex;
+    margin: 0;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    
+    
+}
+.redes{
+    margin: 0;
+    
+
+}
+
+
+.nav4{
+    list-style-type: none; 
+    padding-left: 40px;
+    color : black;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
